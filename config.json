@@ -1,0 +1,8 @@
+{"MINIO_ENDPOINT": "http://x.x.x.x:xxxx", 
+"MINIO_ACCESS_KEY": "", 
+"MINIO_SECRET_KEY": "", 
+"MINIO_BUCKET": "", 
+"CHECK_INTERVAL": "60", 
+"language": "it", 
+"directory_to_watch": ""
+}

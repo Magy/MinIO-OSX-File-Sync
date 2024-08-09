@@ -1,0 +1,37 @@
+{
+    "en": {
+      "upload_completed": "File {file_path} uploaded successfully.",
+      "download_completed": "File {file_name} downloaded successfully to {download_path}.",
+      "deletion_completed": "File {file_name} successfully deleted from MinIO.",
+      "deletion_local_completed": "File {file_path} successfully deleted from local folder.",
+      "file_not_found": "File not found.",
+      "invalid_credentials": "Invalid credentials.",
+      "generic_error": "Generic error while processing the file: {error}",
+      "server_connected": "Connected to the server",
+      "server_disconnected": "Server connection lost",
+      "session_duration": "Session duration: {duration}",
+      "select_folder": "Select Folder to Sync",
+      "pause_sync": "Pause Sync",
+      "resume_sync": "Resume Sync",
+      "sync_started": "Sync of folder {folder_path} started successfully.",
+      "select_language": "Select Language"
+    },
+    "it": {
+      "upload_completed": "File {file_path} caricato con successo.",
+      "download_completed": "File {file_name} scaricato con successo in {download_path}.",
+      "deletion_completed": "File {file_name} cancellato con successo da MinIO.",
+      "deletion_local_completed": "File {file_path} cancellato con successo dalla cartella locale.",
+      "file_not_found": "File non trovato.",
+      "invalid_credentials": "Credenziali non valide.",
+      "generic_error": "Errore generico durante l'elaborazione del file: {error}",
+      "server_connected": "Connesso al server",
+      "server_disconnected": "Connessione al server persa",
+      "session_duration": "Durata sessione: {duration}",
+      "select_folder": "Seleziona Cartella da Sincronizzare",
+      "pause_sync": "Pausa Sincronizzazione",
+      "resume_sync": "Riprendi Sincronizzazione",
+      "sync_started": "Sincronizzazione della cartella {folder_path} avviata con successo.",
+      "select_language": "Seleziona la lingua"
+    }
+  }
+  
