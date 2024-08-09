@@ -2,6 +2,8 @@
 
 ## Description
 
+![Application Screenshot](img/screenshot.png)
+
 MinIO File Sync is a macOS application that enables automatic file synchronization between a local directory and a MinIO server.
 It provides a graphical interface to manage synchronization and monitor status. 
 The application also includes file hash verification to ensure data integrity during transfers.
@@ -44,3 +46,4 @@ Feedback and bug reports are highly appreciated.
 ## Contribution
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+

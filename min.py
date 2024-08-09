@@ -603,7 +603,7 @@ def select_language():
     lang_window = tk.Toplevel(root)
     lang_window.title(messages["select_language"])
     
-    ttk.Label(lang_window, text=messages["select_language_prompt"]).pack(pady=10)
+    ttk.Label(lang_window, text=messages["select_language"]).pack(pady=10)
     language_var = tk.StringVar(value=config.get('language', 'en'))
     
     languages = {"English": "en", "Italian": "it"}

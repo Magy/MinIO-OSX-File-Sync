@@ -14,7 +14,8 @@
       "pause_sync": "Pause Sync",
       "resume_sync": "Resume Sync",
       "sync_started": "Sync of folder {folder_path} started successfully.",
-      "select_language": "Select Language"
+      "select_language": "Select Language",
+      "save": "Save"
     },
     "it": {
       "upload_completed": "File {file_path} caricato con successo.",
@@ -31,7 +32,9 @@
       "pause_sync": "Pausa Sincronizzazione",
       "resume_sync": "Riprendi Sincronizzazione",
       "sync_started": "Sincronizzazione della cartella {folder_path} avviata con successo.",
-      "select_language": "Seleziona la lingua"
+      "select_language": "Seleziona la lingua",
+      "save": "Salva"
+
     }
   }
   
